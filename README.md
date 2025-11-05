@@ -127,7 +127,7 @@ PRs welcome if they're funny or actually useful. Preferably both.
 
 ## credits
 
-- Inspired by a shitpost tweet (aren't they all)
+- Inspired by [this tweet](https://x.com/SIP200OK/status/1985847424259178989)
 - Powered by Claude (Anthropic)
 - Built with `uv` because pip is for boomers
 - Vibes: immaculate
